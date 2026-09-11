@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Model 02: Synthetic Biometric and Liveness Health Verification
 
 Task 1 implements a synthetic-only face and liveness authentication flow. It verifies that a synthetic measurement belongs to the registered synthetic user, device, and session before returning an authentication result.
@@ -93,3 +94,6 @@ The dataset in `data/synthetic_liveness_data.json` contains exactly 100 labelled
 ## Deliberately excluded
 
 SpO2, medical review, measurement history, API authentication/security, real face recognition, and real liveness detection are outside Task 1.
+=======
+# ai-biometric-liveness-service
+>>>>>>> bf3bfce9569c5cd82477a728d1c8c9cad8a3652b
