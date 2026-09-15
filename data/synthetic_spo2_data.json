@@ -1,0 +1,1002 @@
+[
+  {
+    "scenario": "NORMAL",
+    "userId": "SYNTH-USER-001",
+    "sessionId": "SYNTH-SESSION-001",
+    "deviceId": "SYNTH-DEVICE-001",
+    "spo2": 98.0,
+    "timestamp": "2026-09-15T16:00:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "GOOD"
+  },
+  {
+    "scenario": "NORMAL",
+    "userId": "SYNTH-USER-002",
+    "sessionId": "SYNTH-SESSION-002",
+    "deviceId": "SYNTH-DEVICE-002",
+    "spo2": 98.0,
+    "timestamp": "2026-09-15T16:01:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "GOOD"
+  },
+  {
+    "scenario": "NORMAL",
+    "userId": "SYNTH-USER-003",
+    "sessionId": "SYNTH-SESSION-003",
+    "deviceId": "SYNTH-DEVICE-003",
+    "spo2": 98.0,
+    "timestamp": "2026-09-15T16:02:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "GOOD"
+  },
+  {
+    "scenario": "NORMAL",
+    "userId": "SYNTH-USER-004",
+    "sessionId": "SYNTH-SESSION-004",
+    "deviceId": "SYNTH-DEVICE-004",
+    "spo2": 98.0,
+    "timestamp": "2026-09-15T16:03:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "GOOD"
+  },
+  {
+    "scenario": "NORMAL",
+    "userId": "SYNTH-USER-005",
+    "sessionId": "SYNTH-SESSION-005",
+    "deviceId": "SYNTH-DEVICE-005",
+    "spo2": 98.0,
+    "timestamp": "2026-09-15T16:04:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "GOOD"
+  },
+  {
+    "scenario": "NORMAL",
+    "userId": "SYNTH-USER-006",
+    "sessionId": "SYNTH-SESSION-006",
+    "deviceId": "SYNTH-DEVICE-006",
+    "spo2": 98.0,
+    "timestamp": "2026-09-15T16:05:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "GOOD"
+  },
+  {
+    "scenario": "NORMAL",
+    "userId": "SYNTH-USER-007",
+    "sessionId": "SYNTH-SESSION-007",
+    "deviceId": "SYNTH-DEVICE-007",
+    "spo2": 98.0,
+    "timestamp": "2026-09-15T16:06:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "GOOD"
+  },
+  {
+    "scenario": "NORMAL",
+    "userId": "SYNTH-USER-008",
+    "sessionId": "SYNTH-SESSION-008",
+    "deviceId": "SYNTH-DEVICE-008",
+    "spo2": 98.0,
+    "timestamp": "2026-09-15T16:07:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "GOOD"
+  },
+  {
+    "scenario": "NORMAL",
+    "userId": "SYNTH-USER-009",
+    "sessionId": "SYNTH-SESSION-009",
+    "deviceId": "SYNTH-DEVICE-009",
+    "spo2": 98.0,
+    "timestamp": "2026-09-15T16:08:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "GOOD"
+  },
+  {
+    "scenario": "NORMAL",
+    "userId": "SYNTH-USER-010",
+    "sessionId": "SYNTH-SESSION-010",
+    "deviceId": "SYNTH-DEVICE-010",
+    "spo2": 98.0,
+    "timestamp": "2026-09-15T16:09:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "GOOD"
+  },
+  {
+    "scenario": "NORMAL",
+    "userId": "SYNTH-USER-011",
+    "sessionId": "SYNTH-SESSION-011",
+    "deviceId": "SYNTH-DEVICE-011",
+    "spo2": 98.0,
+    "timestamp": "2026-09-15T16:10:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "GOOD"
+  },
+  {
+    "scenario": "NORMAL",
+    "userId": "SYNTH-USER-012",
+    "sessionId": "SYNTH-SESSION-012",
+    "deviceId": "SYNTH-DEVICE-012",
+    "spo2": 98.0,
+    "timestamp": "2026-09-15T16:11:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "GOOD"
+  },
+  {
+    "scenario": "NORMAL",
+    "userId": "SYNTH-USER-013",
+    "sessionId": "SYNTH-SESSION-013",
+    "deviceId": "SYNTH-DEVICE-013",
+    "spo2": 98.0,
+    "timestamp": "2026-09-15T16:12:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "GOOD"
+  },
+  {
+    "scenario": "NORMAL",
+    "userId": "SYNTH-USER-014",
+    "sessionId": "SYNTH-SESSION-014",
+    "deviceId": "SYNTH-DEVICE-014",
+    "spo2": 98.0,
+    "timestamp": "2026-09-15T16:13:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "GOOD"
+  },
+  {
+    "scenario": "NORMAL",
+    "userId": "SYNTH-USER-015",
+    "sessionId": "SYNTH-SESSION-015",
+    "deviceId": "SYNTH-DEVICE-015",
+    "spo2": 98.0,
+    "timestamp": "2026-09-15T16:14:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "GOOD"
+  },
+  {
+    "scenario": "NORMAL",
+    "userId": "SYNTH-USER-016",
+    "sessionId": "SYNTH-SESSION-016",
+    "deviceId": "SYNTH-DEVICE-016",
+    "spo2": 98.0,
+    "timestamp": "2026-09-15T16:15:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "GOOD"
+  },
+  {
+    "scenario": "NORMAL",
+    "userId": "SYNTH-USER-017",
+    "sessionId": "SYNTH-SESSION-017",
+    "deviceId": "SYNTH-DEVICE-017",
+    "spo2": 98.0,
+    "timestamp": "2026-09-15T16:16:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "GOOD"
+  },
+  {
+    "scenario": "NORMAL",
+    "userId": "SYNTH-USER-018",
+    "sessionId": "SYNTH-SESSION-018",
+    "deviceId": "SYNTH-DEVICE-018",
+    "spo2": 98.0,
+    "timestamp": "2026-09-15T16:17:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "GOOD"
+  },
+  {
+    "scenario": "NORMAL",
+    "userId": "SYNTH-USER-019",
+    "sessionId": "SYNTH-SESSION-019",
+    "deviceId": "SYNTH-DEVICE-019",
+    "spo2": 98.0,
+    "timestamp": "2026-09-15T16:18:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "GOOD"
+  },
+  {
+    "scenario": "NORMAL",
+    "userId": "SYNTH-USER-020",
+    "sessionId": "SYNTH-SESSION-020",
+    "deviceId": "SYNTH-DEVICE-020",
+    "spo2": 98.0,
+    "timestamp": "2026-09-15T16:19:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "GOOD"
+  },
+  {
+    "scenario": "NORMAL",
+    "userId": "SYNTH-USER-021",
+    "sessionId": "SYNTH-SESSION-021",
+    "deviceId": "SYNTH-DEVICE-021",
+    "spo2": 98.0,
+    "timestamp": "2026-09-15T16:20:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "GOOD"
+  },
+  {
+    "scenario": "NORMAL",
+    "userId": "SYNTH-USER-022",
+    "sessionId": "SYNTH-SESSION-022",
+    "deviceId": "SYNTH-DEVICE-022",
+    "spo2": 98.0,
+    "timestamp": "2026-09-15T16:21:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "GOOD"
+  },
+  {
+    "scenario": "NORMAL",
+    "userId": "SYNTH-USER-023",
+    "sessionId": "SYNTH-SESSION-023",
+    "deviceId": "SYNTH-DEVICE-023",
+    "spo2": 98.0,
+    "timestamp": "2026-09-15T16:22:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "GOOD"
+  },
+  {
+    "scenario": "NORMAL",
+    "userId": "SYNTH-USER-024",
+    "sessionId": "SYNTH-SESSION-024",
+    "deviceId": "SYNTH-DEVICE-024",
+    "spo2": 98.0,
+    "timestamp": "2026-09-15T16:23:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "GOOD"
+  },
+  {
+    "scenario": "NORMAL",
+    "userId": "SYNTH-USER-025",
+    "sessionId": "SYNTH-SESSION-025",
+    "deviceId": "SYNTH-DEVICE-025",
+    "spo2": 98.0,
+    "timestamp": "2026-09-15T16:24:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "GOOD"
+  },
+  {
+    "scenario": "ATTENTION",
+    "userId": "SYNTH-USER-026",
+    "sessionId": "SYNTH-SESSION-026",
+    "deviceId": "SYNTH-DEVICE-026",
+    "spo2": 93.0,
+    "timestamp": "2026-09-15T16:25:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "ATTENTION",
+    "userId": "SYNTH-USER-027",
+    "sessionId": "SYNTH-SESSION-027",
+    "deviceId": "SYNTH-DEVICE-027",
+    "spo2": 93.0,
+    "timestamp": "2026-09-15T16:26:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "ATTENTION",
+    "userId": "SYNTH-USER-028",
+    "sessionId": "SYNTH-SESSION-028",
+    "deviceId": "SYNTH-DEVICE-028",
+    "spo2": 93.0,
+    "timestamp": "2026-09-15T16:27:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "ATTENTION",
+    "userId": "SYNTH-USER-029",
+    "sessionId": "SYNTH-SESSION-029",
+    "deviceId": "SYNTH-DEVICE-029",
+    "spo2": 93.0,
+    "timestamp": "2026-09-15T16:28:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "ATTENTION",
+    "userId": "SYNTH-USER-030",
+    "sessionId": "SYNTH-SESSION-030",
+    "deviceId": "SYNTH-DEVICE-030",
+    "spo2": 93.0,
+    "timestamp": "2026-09-15T16:29:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "ATTENTION",
+    "userId": "SYNTH-USER-031",
+    "sessionId": "SYNTH-SESSION-031",
+    "deviceId": "SYNTH-DEVICE-031",
+    "spo2": 93.0,
+    "timestamp": "2026-09-15T16:30:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "ATTENTION",
+    "userId": "SYNTH-USER-032",
+    "sessionId": "SYNTH-SESSION-032",
+    "deviceId": "SYNTH-DEVICE-032",
+    "spo2": 93.0,
+    "timestamp": "2026-09-15T16:31:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "ATTENTION",
+    "userId": "SYNTH-USER-033",
+    "sessionId": "SYNTH-SESSION-033",
+    "deviceId": "SYNTH-DEVICE-033",
+    "spo2": 93.0,
+    "timestamp": "2026-09-15T16:32:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "ATTENTION",
+    "userId": "SYNTH-USER-034",
+    "sessionId": "SYNTH-SESSION-034",
+    "deviceId": "SYNTH-DEVICE-034",
+    "spo2": 93.0,
+    "timestamp": "2026-09-15T16:33:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "ATTENTION",
+    "userId": "SYNTH-USER-035",
+    "sessionId": "SYNTH-SESSION-035",
+    "deviceId": "SYNTH-DEVICE-035",
+    "spo2": 93.0,
+    "timestamp": "2026-09-15T16:34:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "ATTENTION",
+    "userId": "SYNTH-USER-036",
+    "sessionId": "SYNTH-SESSION-036",
+    "deviceId": "SYNTH-DEVICE-036",
+    "spo2": 93.0,
+    "timestamp": "2026-09-15T16:35:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "ATTENTION",
+    "userId": "SYNTH-USER-037",
+    "sessionId": "SYNTH-SESSION-037",
+    "deviceId": "SYNTH-DEVICE-037",
+    "spo2": 93.0,
+    "timestamp": "2026-09-15T16:36:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "ATTENTION",
+    "userId": "SYNTH-USER-038",
+    "sessionId": "SYNTH-SESSION-038",
+    "deviceId": "SYNTH-DEVICE-038",
+    "spo2": 93.0,
+    "timestamp": "2026-09-15T16:37:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "ATTENTION",
+    "userId": "SYNTH-USER-039",
+    "sessionId": "SYNTH-SESSION-039",
+    "deviceId": "SYNTH-DEVICE-039",
+    "spo2": 93.0,
+    "timestamp": "2026-09-15T16:38:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "ATTENTION",
+    "userId": "SYNTH-USER-040",
+    "sessionId": "SYNTH-SESSION-040",
+    "deviceId": "SYNTH-DEVICE-040",
+    "spo2": 93.0,
+    "timestamp": "2026-09-15T16:39:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "ATTENTION",
+    "userId": "SYNTH-USER-041",
+    "sessionId": "SYNTH-SESSION-041",
+    "deviceId": "SYNTH-DEVICE-041",
+    "spo2": 93.0,
+    "timestamp": "2026-09-15T16:40:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "ATTENTION",
+    "userId": "SYNTH-USER-042",
+    "sessionId": "SYNTH-SESSION-042",
+    "deviceId": "SYNTH-DEVICE-042",
+    "spo2": 93.0,
+    "timestamp": "2026-09-15T16:41:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "ATTENTION",
+    "userId": "SYNTH-USER-043",
+    "sessionId": "SYNTH-SESSION-043",
+    "deviceId": "SYNTH-DEVICE-043",
+    "spo2": 93.0,
+    "timestamp": "2026-09-15T16:42:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "ATTENTION",
+    "userId": "SYNTH-USER-044",
+    "sessionId": "SYNTH-SESSION-044",
+    "deviceId": "SYNTH-DEVICE-044",
+    "spo2": 93.0,
+    "timestamp": "2026-09-15T16:43:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "ATTENTION",
+    "userId": "SYNTH-USER-045",
+    "sessionId": "SYNTH-SESSION-045",
+    "deviceId": "SYNTH-DEVICE-045",
+    "spo2": 93.0,
+    "timestamp": "2026-09-15T16:44:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "LOW",
+    "userId": "SYNTH-USER-046",
+    "sessionId": "SYNTH-SESSION-046",
+    "deviceId": "SYNTH-DEVICE-046",
+    "spo2": 88.0,
+    "timestamp": "2026-09-15T16:45:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "LOW",
+    "userId": "SYNTH-USER-047",
+    "sessionId": "SYNTH-SESSION-047",
+    "deviceId": "SYNTH-DEVICE-047",
+    "spo2": 88.0,
+    "timestamp": "2026-09-15T16:46:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "LOW",
+    "userId": "SYNTH-USER-048",
+    "sessionId": "SYNTH-SESSION-048",
+    "deviceId": "SYNTH-DEVICE-048",
+    "spo2": 88.0,
+    "timestamp": "2026-09-15T16:47:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "LOW",
+    "userId": "SYNTH-USER-049",
+    "sessionId": "SYNTH-SESSION-049",
+    "deviceId": "SYNTH-DEVICE-049",
+    "spo2": 88.0,
+    "timestamp": "2026-09-15T16:48:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "LOW",
+    "userId": "SYNTH-USER-050",
+    "sessionId": "SYNTH-SESSION-050",
+    "deviceId": "SYNTH-DEVICE-050",
+    "spo2": 88.0,
+    "timestamp": "2026-09-15T16:49:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "LOW",
+    "userId": "SYNTH-USER-051",
+    "sessionId": "SYNTH-SESSION-051",
+    "deviceId": "SYNTH-DEVICE-051",
+    "spo2": 88.0,
+    "timestamp": "2026-09-15T16:50:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "LOW",
+    "userId": "SYNTH-USER-052",
+    "sessionId": "SYNTH-SESSION-052",
+    "deviceId": "SYNTH-DEVICE-052",
+    "spo2": 88.0,
+    "timestamp": "2026-09-15T16:51:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "LOW",
+    "userId": "SYNTH-USER-053",
+    "sessionId": "SYNTH-SESSION-053",
+    "deviceId": "SYNTH-DEVICE-053",
+    "spo2": 88.0,
+    "timestamp": "2026-09-15T16:52:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "LOW",
+    "userId": "SYNTH-USER-054",
+    "sessionId": "SYNTH-SESSION-054",
+    "deviceId": "SYNTH-DEVICE-054",
+    "spo2": 88.0,
+    "timestamp": "2026-09-15T16:53:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "LOW",
+    "userId": "SYNTH-USER-055",
+    "sessionId": "SYNTH-SESSION-055",
+    "deviceId": "SYNTH-DEVICE-055",
+    "spo2": 88.0,
+    "timestamp": "2026-09-15T16:54:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "LOW",
+    "userId": "SYNTH-USER-056",
+    "sessionId": "SYNTH-SESSION-056",
+    "deviceId": "SYNTH-DEVICE-056",
+    "spo2": 88.0,
+    "timestamp": "2026-09-15T16:55:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "LOW",
+    "userId": "SYNTH-USER-057",
+    "sessionId": "SYNTH-SESSION-057",
+    "deviceId": "SYNTH-DEVICE-057",
+    "spo2": 88.0,
+    "timestamp": "2026-09-15T16:56:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "LOW",
+    "userId": "SYNTH-USER-058",
+    "sessionId": "SYNTH-SESSION-058",
+    "deviceId": "SYNTH-DEVICE-058",
+    "spo2": 88.0,
+    "timestamp": "2026-09-15T16:57:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "LOW",
+    "userId": "SYNTH-USER-059",
+    "sessionId": "SYNTH-SESSION-059",
+    "deviceId": "SYNTH-DEVICE-059",
+    "spo2": 88.0,
+    "timestamp": "2026-09-15T16:58:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "LOW",
+    "userId": "SYNTH-USER-060",
+    "sessionId": "SYNTH-SESSION-060",
+    "deviceId": "SYNTH-DEVICE-060",
+    "spo2": 88.0,
+    "timestamp": "2026-09-15T16:59:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "LOW",
+    "userId": "SYNTH-USER-061",
+    "sessionId": "SYNTH-SESSION-061",
+    "deviceId": "SYNTH-DEVICE-061",
+    "spo2": 88.0,
+    "timestamp": "2026-09-15T17:00:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "LOW",
+    "userId": "SYNTH-USER-062",
+    "sessionId": "SYNTH-SESSION-062",
+    "deviceId": "SYNTH-DEVICE-062",
+    "spo2": 88.0,
+    "timestamp": "2026-09-15T17:01:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "LOW",
+    "userId": "SYNTH-USER-063",
+    "sessionId": "SYNTH-SESSION-063",
+    "deviceId": "SYNTH-DEVICE-063",
+    "spo2": 88.0,
+    "timestamp": "2026-09-15T17:02:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "LOW",
+    "userId": "SYNTH-USER-064",
+    "sessionId": "SYNTH-SESSION-064",
+    "deviceId": "SYNTH-DEVICE-064",
+    "spo2": 88.0,
+    "timestamp": "2026-09-15T17:03:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "LOW",
+    "userId": "SYNTH-USER-065",
+    "sessionId": "SYNTH-SESSION-065",
+    "deviceId": "SYNTH-DEVICE-065",
+    "spo2": 88.0,
+    "timestamp": "2026-09-15T17:04:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "FAIR"
+  },
+  {
+    "scenario": "CRITICAL",
+    "userId": "SYNTH-USER-066",
+    "sessionId": "SYNTH-SESSION-066",
+    "deviceId": "SYNTH-DEVICE-066",
+    "spo2": 75.0,
+    "timestamp": "2026-09-15T17:05:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "CRITICAL",
+    "userId": "SYNTH-USER-067",
+    "sessionId": "SYNTH-SESSION-067",
+    "deviceId": "SYNTH-DEVICE-067",
+    "spo2": 75.0,
+    "timestamp": "2026-09-15T17:06:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "CRITICAL",
+    "userId": "SYNTH-USER-068",
+    "sessionId": "SYNTH-SESSION-068",
+    "deviceId": "SYNTH-DEVICE-068",
+    "spo2": 75.0,
+    "timestamp": "2026-09-15T17:07:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "CRITICAL",
+    "userId": "SYNTH-USER-069",
+    "sessionId": "SYNTH-SESSION-069",
+    "deviceId": "SYNTH-DEVICE-069",
+    "spo2": 75.0,
+    "timestamp": "2026-09-15T17:08:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "CRITICAL",
+    "userId": "SYNTH-USER-070",
+    "sessionId": "SYNTH-SESSION-070",
+    "deviceId": "SYNTH-DEVICE-070",
+    "spo2": 75.0,
+    "timestamp": "2026-09-15T17:09:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "CRITICAL",
+    "userId": "SYNTH-USER-071",
+    "sessionId": "SYNTH-SESSION-071",
+    "deviceId": "SYNTH-DEVICE-071",
+    "spo2": 75.0,
+    "timestamp": "2026-09-15T17:10:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "CRITICAL",
+    "userId": "SYNTH-USER-072",
+    "sessionId": "SYNTH-SESSION-072",
+    "deviceId": "SYNTH-DEVICE-072",
+    "spo2": 75.0,
+    "timestamp": "2026-09-15T17:11:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "CRITICAL",
+    "userId": "SYNTH-USER-073",
+    "sessionId": "SYNTH-SESSION-073",
+    "deviceId": "SYNTH-DEVICE-073",
+    "spo2": 75.0,
+    "timestamp": "2026-09-15T17:12:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "CRITICAL",
+    "userId": "SYNTH-USER-074",
+    "sessionId": "SYNTH-SESSION-074",
+    "deviceId": "SYNTH-DEVICE-074",
+    "spo2": 75.0,
+    "timestamp": "2026-09-15T17:13:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "CRITICAL",
+    "userId": "SYNTH-USER-075",
+    "sessionId": "SYNTH-SESSION-075",
+    "deviceId": "SYNTH-DEVICE-075",
+    "spo2": 75.0,
+    "timestamp": "2026-09-15T17:14:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "CRITICAL",
+    "userId": "SYNTH-USER-076",
+    "sessionId": "SYNTH-SESSION-076",
+    "deviceId": "SYNTH-DEVICE-076",
+    "spo2": 75.0,
+    "timestamp": "2026-09-15T17:15:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "CRITICAL",
+    "userId": "SYNTH-USER-077",
+    "sessionId": "SYNTH-SESSION-077",
+    "deviceId": "SYNTH-DEVICE-077",
+    "spo2": 75.0,
+    "timestamp": "2026-09-15T17:16:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "CRITICAL",
+    "userId": "SYNTH-USER-078",
+    "sessionId": "SYNTH-SESSION-078",
+    "deviceId": "SYNTH-DEVICE-078",
+    "spo2": 75.0,
+    "timestamp": "2026-09-15T17:17:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "CRITICAL",
+    "userId": "SYNTH-USER-079",
+    "sessionId": "SYNTH-SESSION-079",
+    "deviceId": "SYNTH-DEVICE-079",
+    "spo2": 75.0,
+    "timestamp": "2026-09-15T17:18:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "CRITICAL",
+    "userId": "SYNTH-USER-080",
+    "sessionId": "SYNTH-SESSION-080",
+    "deviceId": "SYNTH-DEVICE-080",
+    "spo2": 75.0,
+    "timestamp": "2026-09-15T17:19:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "INVALID",
+    "userId": "SYNTH-USER-081",
+    "sessionId": "SYNTH-SESSION-081",
+    "deviceId": "SYNTH-DEVICE-081",
+    "spo2": 101.0,
+    "timestamp": "2026-09-15T17:20:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "INVALID",
+    "userId": "SYNTH-USER-082",
+    "sessionId": "SYNTH-SESSION-082",
+    "deviceId": "SYNTH-DEVICE-082",
+    "spo2": 101.0,
+    "timestamp": "2026-09-15T17:21:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "INVALID",
+    "userId": "SYNTH-USER-083",
+    "sessionId": "SYNTH-SESSION-083",
+    "deviceId": "SYNTH-DEVICE-083",
+    "spo2": 101.0,
+    "timestamp": "2026-09-15T17:22:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "INVALID",
+    "userId": "SYNTH-USER-084",
+    "sessionId": "SYNTH-SESSION-084",
+    "deviceId": "SYNTH-DEVICE-084",
+    "spo2": 101.0,
+    "timestamp": "2026-09-15T17:23:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "INVALID",
+    "userId": "SYNTH-USER-085",
+    "sessionId": "SYNTH-SESSION-085",
+    "deviceId": "SYNTH-DEVICE-085",
+    "spo2": 101.0,
+    "timestamp": "2026-09-15T17:24:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "INVALID",
+    "userId": "SYNTH-USER-086",
+    "sessionId": "SYNTH-SESSION-086",
+    "deviceId": "SYNTH-DEVICE-086",
+    "spo2": 101.0,
+    "timestamp": "2026-09-15T17:25:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "INVALID",
+    "userId": "SYNTH-USER-087",
+    "sessionId": "SYNTH-SESSION-087",
+    "deviceId": "SYNTH-DEVICE-087",
+    "spo2": 101.0,
+    "timestamp": "2026-09-15T17:26:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "INVALID",
+    "userId": "SYNTH-USER-088",
+    "sessionId": "SYNTH-SESSION-088",
+    "deviceId": "SYNTH-DEVICE-088",
+    "spo2": 101.0,
+    "timestamp": "2026-09-15T17:27:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "INVALID",
+    "userId": "SYNTH-USER-089",
+    "sessionId": "SYNTH-SESSION-089",
+    "deviceId": "SYNTH-DEVICE-089",
+    "spo2": 101.0,
+    "timestamp": "2026-09-15T17:28:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "INVALID",
+    "userId": "SYNTH-USER-090",
+    "sessionId": "SYNTH-SESSION-090",
+    "deviceId": "SYNTH-DEVICE-090",
+    "spo2": 101.0,
+    "timestamp": "2026-09-15T17:29:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "INVALID",
+    "userId": "SYNTH-USER-091",
+    "sessionId": "SYNTH-SESSION-091",
+    "deviceId": "SYNTH-DEVICE-091",
+    "spo2": 101.0,
+    "timestamp": "2026-09-15T17:30:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "INVALID",
+    "userId": "SYNTH-USER-092",
+    "sessionId": "SYNTH-SESSION-092",
+    "deviceId": "SYNTH-DEVICE-092",
+    "spo2": 101.0,
+    "timestamp": "2026-09-15T17:31:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "INVALID",
+    "userId": "SYNTH-USER-093",
+    "sessionId": "SYNTH-SESSION-093",
+    "deviceId": "SYNTH-DEVICE-093",
+    "spo2": 101.0,
+    "timestamp": "2026-09-15T17:32:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "INVALID",
+    "userId": "SYNTH-USER-094",
+    "sessionId": "SYNTH-SESSION-094",
+    "deviceId": "SYNTH-DEVICE-094",
+    "spo2": 101.0,
+    "timestamp": "2026-09-15T17:33:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "INVALID",
+    "userId": "SYNTH-USER-095",
+    "sessionId": "SYNTH-SESSION-095",
+    "deviceId": "SYNTH-DEVICE-095",
+    "spo2": 101.0,
+    "timestamp": "2026-09-15T17:34:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "INVALID",
+    "userId": "SYNTH-USER-096",
+    "sessionId": "SYNTH-SESSION-096",
+    "deviceId": "SYNTH-DEVICE-096",
+    "spo2": 101.0,
+    "timestamp": "2026-09-15T17:35:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "INVALID",
+    "userId": "SYNTH-USER-097",
+    "sessionId": "SYNTH-SESSION-097",
+    "deviceId": "SYNTH-DEVICE-097",
+    "spo2": 101.0,
+    "timestamp": "2026-09-15T17:36:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "INVALID",
+    "userId": "SYNTH-USER-098",
+    "sessionId": "SYNTH-SESSION-098",
+    "deviceId": "SYNTH-DEVICE-098",
+    "spo2": 101.0,
+    "timestamp": "2026-09-15T17:37:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "INVALID",
+    "userId": "SYNTH-USER-099",
+    "sessionId": "SYNTH-SESSION-099",
+    "deviceId": "SYNTH-DEVICE-099",
+    "spo2": 101.0,
+    "timestamp": "2026-09-15T17:38:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  },
+  {
+    "scenario": "INVALID",
+    "userId": "SYNTH-USER-100",
+    "sessionId": "SYNTH-SESSION-100",
+    "deviceId": "SYNTH-DEVICE-100",
+    "spo2": 101.0,
+    "timestamp": "2026-09-15T17:39:00Z",
+    "measurementSource": "SYNTHETIC_SPO2_DEVICE",
+    "measurementQuality": "POOR"
+  }
+]
